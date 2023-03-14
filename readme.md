@@ -628,7 +628,7 @@
 - [Cassandra](https://github.com/Anant/awesome-cassandra#readme) - Open-source, distributed, wide column store, NoSQL database management system.
 - [TDengine](https://github.com/taosdata/awesome-tdengine#readme) - An open-source time-series database with high-performance, scalability, and SQL support.
 - [Supabase](https://github.com/lyqht/awesome-supabase#readme) - An open-source alternative to Firebase.
-- [Milvus](https://github.com/milvus-io/milvus#readme) - Vector database for scalable similarity search and AI applications.
+- [Milvus](https://github.com/milvus-io/milvus#readme) - A cloud-native vector database with high-performance and high scalability.
 
 ## Media
 
